@@ -9,6 +9,10 @@
 ![](https://streak-stats.demolab.com/?user=Rajmodi340&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajmodi340&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajmodi340&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
