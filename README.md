@@ -37,6 +37,12 @@ const Raj modi = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajmodi340&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajmodi340&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true)
+
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
